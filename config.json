@@ -1,0 +1,21 @@
+{
+    "log": {
+        "terminal": false
+    },
+    "database": {
+        "host": "127.0.0.1",
+        "port": "3306",
+        "name": "apartments_dev",
+        "username": "giuseppe",
+        "password": "Gg20042012!$"
+    },
+    "telegram": {
+        "name": "DonataBot",
+        "token": "1085979046:AAHW87zkMBL2XQCKOgDT4xSIV7MPz2gXhVo"
+    },
+    "dialogflow": {
+        "name": "hotel-booking-wxfsps",
+        "token": "7658a3fcef354a14ad34ecd58dbc10c1",
+        "language": "it"
+    }
+}
